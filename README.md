@@ -34,3 +34,4 @@ begin
 dbms_output.put_line("Hello World");
 end
 http://www.naturalprogrammer.com/spring-framework-rest-api-validation/
+https://lmonkiewicz.com/programming/get-noticed-2017/spring-boot-rest-request-validation/
