@@ -36,8 +36,7 @@ end
 -----------------------------------------------------------------------------
 How to Update millions or records in a table ?
 -----------------------------------------------------------------------------
-CREATE TABLE new_table as select <do the update "here"> from old_table; 
-
+CREATE TABLE new_table as select <do the update here> from old_table; 
 index new_table 
 grant on new table 
 add constraints on new_table 
